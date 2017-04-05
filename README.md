@@ -5,7 +5,7 @@ git push -u origin master
 
 ## Installation
 
-Install as you would a normal ULX addon.
+Install as you would a normal ULX addon, or install from the Workshop here: http://steamcommunity.com/sharedfiles/filedetails/?id=899130656
 
 ## Usage
 
