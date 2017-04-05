@@ -1,13 +1,13 @@
 {
 	"title"		:	"ULX ttt_mark",
 	"type"		:	"ServerContent",
-	"tags"		:	[ "ttt", "terrortown", "utility" ],
+	"tags"		:	[ "fun", "build" ],
 	"ignore"	:
 	[
 		"addon.txt",
 		".git*",
 		"README.md",
 		"LICENSE.md"
-	]
-	/*"workshopid": X*/
+	],
+	"workshopid": 899130033
 }
