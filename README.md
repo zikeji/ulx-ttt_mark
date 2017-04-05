@@ -16,16 +16,20 @@ The command is available to all players. If no target is specified, will mark th
  - `!mark f [player]`
  - `!mark friend [player]`
  - `!mark friendly [player]`
+
 **Mark player as suspicious**
  - `!mark s [player]`
  - `!mark susp [player]`
  - `!mark suspicious [player]`
+
 **Mark player as avoid**
  - `!mark a [player]`
  - `!mark avoid [player]`
+
 **Mark player as kill**
  - `!mark k [player]`
  - `!mark kill [player]`
+
 **Mark player as kill**
  - `!mark m [player]`
  - `!mark miss [player]`
@@ -36,11 +40,15 @@ You can use the short forms (f, m, etc.) however console does have ULX autocompl
 
 **Mark player as friendly**
 - `ulx_mark friendly [player]`
+
 **Mark player as suspicious**
  - `ulx_mark suspicious [player]`
+
 **Mark player as avoid**
  - `ulx_mark avoid [player]`
+
 **Mark player as kill**
  - `ulx_mark kill [player]`
+ 
 **Mark player as kill**
  - `ulx_mark missing [player]`
