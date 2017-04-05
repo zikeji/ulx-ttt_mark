@@ -1,7 +1,7 @@
 "AddonInfo"
 {
 	"name"            "ULX ttt_mark"
-	"version"         "1.0"
+	"version"         "1.1"
 	"up_date"         "04/05/17"
 	"author_name"     "Caleb Blankemeyer"
 	"author_email"    "caleb@blankemeyer.us"
