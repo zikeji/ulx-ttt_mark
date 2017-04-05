@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"            "ULX TTT_Mark"
+	"version"         "1.0"
+	"up_date"         "04/05/17"
+	"author_name"     "Caleb Blankemeyer"
+	"author_email"    "caleb@blankemeyer.us"
+	"author_url"      "https://github.com/zikeji"
+}
